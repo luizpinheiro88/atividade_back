@@ -1,5 +1,5 @@
 {
-  "name": "teste",
+  "name": "teste2",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -15,4 +15,6 @@
     "mongoose": "^8.3.4",
     "nodemon": "^3.1.0"
   }
+ 
+  
 }
